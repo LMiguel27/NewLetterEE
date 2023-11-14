@@ -1,0 +1,52 @@
+<mjml>
+  
+  <mj-body background-color="#F5F5F5">
+        
+    <mj-include path="./header.mjml" />
+    
+    <mj-section background-color="#3498db" padding="20px 0">
+      <mj-column>
+       
+        <mj-text color="#ffffff" font-size="30px" font-weight="bold" align="center">Horário de atendimento aos encarregados de educação</mj-text>
+      
+      </mj-column>
+    
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" padding="20px 0">
+      
+      <mj-column>
+        <mj-image padding-bottom="0px" src="Imagens/portugal.png" width="40px" align="left"/>
+        
+        <mj-text color="#000000" font-size="16px" align="left">Caros excelentíssimos, encarregados de educação<br/>Vimos por este meio informar o horário de atendimento dos encarregados de Educação.</mj-text>
+        
+
+  <mj-divider border-width="1px" border-style="dashed" border-color="black" />
+        
+<mj-image padding-bottom="0" src="Imagens/england.png" width="40px" align="left"/>
+        
+<mj-text color="#000000" font-size="16px" align="left">Dear parents and carers<br/>We hereby inform you of the opening hours for parents and carers.</mj-text>
+     
+<mj-divider border-width="1px" border-style="dashed" border-color="black" />
+        
+        <mj-image src="Imagens/clock.png" width="100px"/>
+        
+        <mj-text color="#000000" font-size="18px" font-weight="bold" align="center">Quartas-Feiras</mj-text>
+        <mj-text color="#000000" font-size="18px" font-weight="bold" align="center">12h10 até 12h55 e das 16h20 às 17h</mj-text>
+          
+        <mj-divider border-width="1px" border-style="dashed" border-color="black" />
+        
+        <mj-text color="#000000" font-size="18px" font-weight="bold" align="left">Se não tiver um horário disponível</mj-text>
+        
+        <mj-text color="#000000" font-size="16px" align="left">Envie um email para combinar uma hora livre para falar com o excelentíssimo professor
+</mj-text>
+        
+        <mj-text color="#000000" font-size="16px" align="left">se tiver dúvidas ou desejar marcar para outro dia, envie um e-mail para josegoncalves@esjaloures.org</mj-text>
+        
+<mj-text color="#000000" font-size="13px" font-weight="bold" align="right">Nota:<br>Trabalho feito pela turma 12ºPTPSI</br></mj-text>
+      
+      </mj-column>
+    </mj-section>
+          <mj-include path="./footer.mjml" />
+ </mj-body>
+</mjml>

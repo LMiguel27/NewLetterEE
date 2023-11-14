@@ -1,0 +1,8 @@
+<mj-section background-color="#4595ca" padding="5px 0">
+      <mj-column>
+
+<mj-text color="#FFF" font-size="12px" align="center"font-weight="bold">Contacto da escola: 21 982 71 10<br>Morada: Rua da República</br>Código-Postal: 2670-468, Loures</br>Email: esjaloures@esjaloures.org</mj-text>
+        
+
+      </mj-column>
+    </mj-section>

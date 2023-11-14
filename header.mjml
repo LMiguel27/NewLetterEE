@@ -1,0 +1,13 @@
+<mj-section>
+  <mj-text align="center"font-weight="bold">
+    Se náo consegue abrir clique <a href="www.a.com">aqui</a></mj-text>
+    </mj-section>
+  <mj-section>
+      <mj-column>
+        <mj-image src="Imagens/Escola.png" width="200px" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="Imagens/Escola2.png" width="200px" />
+      </mj-column>
+
+    </mj-section>
